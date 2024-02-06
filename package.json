@@ -1,0 +1,22 @@
+{
+  "name": "sea-battle-game",
+  "version": "1.0.0",
+  "description": "\"Battleship\" is a classic strategic guessing game that typically involves two players. Each player has a grid on which they place a fleet of ships without revealing the placement to their opponent. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinelon/sea-battle-game.git"
+  },
+  "author": "Chinelo Nwobbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinelon/sea-battle-game/issues"
+  },
+  "homepage": "https://github.com/chinelon/sea-battle-game#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
